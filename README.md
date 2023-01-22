@@ -1,3 +1,8 @@
+<h2></h2>
+According to SANS Institute:  
+ 
+   _"Network Security is the process of taking physical and software preventative measures to protect the underlying networking infrastructure from unauthorized access, misuse, malfunction, modification, destruction, or improper disclosure, thereby creating a secure platform for computers, users and programs to perform their permitted critical functions within a secure environment."_ - [SANS Network Security Resources](https://www.sans.org/network-security)
+
 ## Network Security
 #### Security Control Types
 The concept of defense in depth can be broken down into three different security control types. Identify the security control type of each set  of defense tactics.
